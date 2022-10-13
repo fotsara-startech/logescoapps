@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "codecat": "CAT001",
+        "designation": "FRIGO"
+    },
+    {
+        "id": 2,
+        "codecat": "CAT002",
+        "designation": "biscuit"
+    },
+    {
+        "id": 3,
+        "codecat": "CAT003",
+        "designation": "agro-alimentaire"
+    },
+    {
+        "id": 4,
+        "codecat": "CAT004",
+        "designation": "cosmetique"
+    },
+    {
+        "id": 5,
+        "codecat": "CAT005",
+        "designation": "bonbon"
+    },
+    {
+        "id": 6,
+        "codecat": "CAT006",
+        "designation": "Mobilier"
+    },
+    {
+        "id": 7,
+        "codecat": "CAT007",
+        "designation": "MATELAS"
+    },
+    {
+        "id": 8,
+        "codecat": "CAT008",
+        "designation": "tapis"
+    },
+    {
+        "id": 9,
+        "codecat": "CAT009",
+        "designation": "MACHINE LAVER"
+    },
+    {
+        "id": 10,
+        "codecat": "CAT010",
+        "designation": "MACHINE A COUDRE"
+    },
+    {
+        "id": 11,
+        "codecat": "CAT011",
+        "designation": "CONGELATEUR"
+    },
+    {
+        "id": 12,
+        "codecat": "CAT012",
+        "designation": "ELECTRONIQUE"
+    },
+    {
+        "id": 13,
+        "codecat": "CAT013",
+        "designation": "TELEVISEUR"
+    },
+    {
+        "id": 14,
+        "codecat": "CAT014",
+        "designation": "yaourt"
+    },
+    {
+        "id": 15,
+        "codecat": "CAT015",
+        "designation": "telephone"
+    },
+    {
+        "id": 16,
+        "codecat": "CAT016",
+        "designation": "ordinateur"
+    },
+    {
+        "id": 17,
+        "codecat": "CAT017",
+        "designation": "huile vegetale"
+    },
+    {
+        "id": 18,
+        "codecat": "CAT018",
+        "designation": "Eau Minerale"
+    },
+    {
+        "id": 19,
+        "codecat": "CAT000",
+        "designation": "service"
+    },
+    {
+        "id": 20,
+        "codecat": "CAT023",
+        "designation": "laptop"
+    },
+    {
+        "id": 21,
+        "codecat": "CAT022",
+        "designation": "Imprimante"
+    },
+    {
+        "id": 22,
+        "codecat": "CAT024",
+        "designation": "Ampoule"
+    },
+    {
+        "id": 23,
+        "codecat": "CAT025",
+        "designation": "desktop"
+    }
+]
